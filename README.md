@@ -25,7 +25,7 @@ This project analyzes Brazilian e-commerce (Olist) sales data to identify busine
 ![Tableau Dashboard](tableau.png)
 
 ### 🔹 Excel Dashboard
-![Excel Dashboard](excel.png)
+![Excel Dashboard](excel.jpeg)
 
 ## 📈 Key Insights
 - Top product categories generated highest revenue
