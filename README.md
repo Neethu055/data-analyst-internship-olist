@@ -19,10 +19,10 @@ This project analyzes Brazilian e-commerce (Olist) sales data to identify busine
 ## 📊 Dashboard Screenshots
 
 ### 🔹 Power BI Dashboard
-![Power BI Dashboard](powerbi.png)
+![Power BI Dashboard](powerbi.jpeg)
 
 ### 🔹 Tableau Dashboard
-![Tableau Dashboard](tableau.png)
+![Tableau Dashboard](tableau.jpeg)
 
 ### 🔹 Excel Dashboard
 ![Excel Dashboard](excel.jpeg)
